@@ -2,7 +2,7 @@
 
 How to use:
 - fork
-- amend [`countries.md`](https://github.com/aslushnikov/been/blob/master/countries.md) to mark relevant countries
+- amend [`countries.md`](https://github.com/objmagic/been/blob/master/countries.md) to mark relevant countries
 - host on GH Pages
 
 
