@@ -2,52 +2,52 @@
 
 - [ ] AL Albania
 - [ ] AT Austria
-- [x] BY Belarus
+- [ ] BY Belarus
 - [ ] BE Belgium
 - [ ] BA Bosnia and Herzegovina
 - [ ] BG Bulgaria
 - [ ] HR Croatia
 - [x] CZ Czech Republic
-- [x] DK Denmark
-- [x] EE Estonia
-- [x] FI Finland
+- [ ] DK Denmark
+- [ ] EE Estonia
+- [ ] FI Finland
 - [x] FR France
-- [x] DE Germany
+- [ ] DE Germany
 - [ ] GR Greece
 - [ ] HU Hungary
 - [ ] IS Iceland
 - [ ] IE Ireland
-- [x] IT Italy
+- [ ] IT Italy
 - [ ] XK Kosovo
-- [x] LV Latvia
-- [x] LT Lithuania
+- [ ] LV Latvia
+- [ ] LT Lithuania
 - [ ] LU Luxembourg
 - [ ] MK Macedonia
-- [x] MD Moldova
+- [ ] MD Moldova
 - [ ] ME Montenegro
 - [x] NL Netherlands
-- [ ] NO Norway
+- [x] NO Norway
 - [x] PL Poland
-- [x] PT Portugal
+- [ ] PT Portugal
 - [ ] RO Romania
 - [ ] RS Serbia
 - [ ] SK Slovakia
 - [ ] SI Slovenia
-- [x] ES Spain
+- [ ] ES Spain
 - [ ] SE Sweden
-- [x] CH Switzerland
-- [x] UA Ukraine
+- [ ] CH Switzerland
+- [ ] UA Ukraine
 - [x] GB United Kingdom
 
 # Asia
 
 - [ ] AF Afghanistan
-- [x] AM Armenia
+- [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
 - [ ] BT Bhutan
 - [ ] BN Brunei Darussalam
-- [ ] CN China
+- [x] CN China
 - [ ] GE Georgia
 - [ ] IN India
 - [ ] ID Indonesia
@@ -71,14 +71,15 @@
 - [ ] PS Palestinian Territories
 - [ ] PH Philippines
 - [ ] QA Qatar
-- [x] RU Russia
+- [ ] RU Russia
 - [ ] SA Saudi Arabia
+- [ ] SG Singapore
 - [ ] KR South Korea
 - [ ] LK Sri Lanka
 - [ ] SY Syria
-- [ ] TW Taiwan
+- [x] TW Taiwan
 - [ ] TJ Tajikistan
-- [x] TH Thailand
+- [ ] TH Thailand
 - [ ] TL Timor-Leste
 - [ ] TR Turkey
 - [ ] TM Turkmenistan
@@ -89,9 +90,9 @@
 
 # North America
 
-- [ ] CA Canada
+- [x] CA Canada
 - [ ] GL Greenland
-- [x] MX Mexico
+- [ ] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
 - [x] US United States
 
@@ -124,14 +125,14 @@
 - [ ] GF French Guiana
 - [ ] GY Guyana
 - [ ] PY Paraguay
-- [x] PE Peru
+- [ ] PE Peru
 - [ ] SR Suriname
 - [ ] UY Uruguay
 - [ ] VE Venezuela
 
 # Oceania
 
-- [x] AU Australia
+- [ ] AU Australia
 - [ ] FJ Fiji
 - [ ] TF French Southern and Antarctic Lands
 - [ ] NC New Caledonia
@@ -165,7 +166,7 @@
 - [ ] GH Ghana
 - [ ] GN Guinea
 - [ ] GW Guinea-Bissau
-- [x] KE Kenya
+- [ ] KE Kenya
 - [ ] LS Lesotho
 - [ ] LR Liberia
 - [ ] LY Libya
@@ -189,7 +190,7 @@
 - [ ] SZ Swaziland
 - [ ] TZ Tanzania
 - [ ] TG Togo
-- [x] TN Tunisia
+- [ ] TN Tunisia
 - [ ] UG Uganda
 - [ ] EH Western Sahara
 - [ ] ZM Zambia
